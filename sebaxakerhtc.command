@@ -1,4 +1,4 @@
-* Enabling installation from any source
+* Enabling installation from anywhere
 sudo spctl --master-disable
 * Installing homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
